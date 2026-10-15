@@ -879,7 +879,7 @@ img {
      建議圖片尺寸：1920 × 1080 px。
 -->
 <section class="hero">
-  <img class="hero-bg" src="./hero.jpg"
+  <img class="hero-bg" src="./hero.png"
        alt="獺祭季節限定清酒預購主視覺"
        fetchpriority="high"
        onerror="this.style.display='none'">
